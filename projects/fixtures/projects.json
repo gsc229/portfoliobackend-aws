@@ -1,0 +1,125 @@
+[
+  {
+      
+      "title": "Expat Journal",
+      "owner": "greg",
+      "project_type": "Team Project",      
+      "front_end_repo": "https://github.com/ExpatJournal/Marketing-Page-Greg-Cameron",
+      "back_end_repo": "",
+      "website": "https://expatjournal-marketing-pages.netlify.app/index.html",
+      "web_icon": "fas fa-map-pin",
+      "description": "One of my first team builds. I built these marketing pages for an app that helps travelers show off where they've been.",
+      "roles": "user interface designer",
+      "responsibilities": "built the marketing pages that point the way to the main application",
+      "technologies": [
+          "Less",
+          "Bootstrap",
+          "CSS 3"
+      ],
+      "featured": false
+      
+  },
+  {
+      
+      "title": "Market Ave.",
+      "owner": "greg",
+      "project_type": "Team Project",      
+      "front_end_repo": "https://github.com/gsc229/quick-street-fe",
+      "back_end_repo": "https://github.com/gsc229/quick-street-be#contents",
+      "website": "https://market-ave.netlify.app/",
+      "web_icon": "fas fa-store",
+      "description": "Market Ave. is an e-commerce platform for farmers' market vendors. This was a team project I worked on for two months.",
+      "roles": "front end architect & back end engineer",
+      "responsibilities": "vendor profile, backend seach filters, database, image management",
+      "technologies": [
+          "JavaScript",
+          "React with hooks",
+          "Heroku",
+          "Mongoose",
+          "Sass",
+          "Digital Ocean",
+          "MongoDB",
+          "Express",
+          "Node"
+      ],
+      "featured": false      
+  },
+  {      
+      "title": "BT Real Estate",
+      "owner": "greg",
+      "project_type": "Course Project",      
+      "front_end_repo": "https://github.com/gsc229/btre_project",
+      "back_end_repo": "",
+      "website": "https://greg-btrealestate.herokuapp.com/",
+      "web_icon": "fas fa-home",
+      "description": "This is a project I built following a Brad Traversy Udemy course. This is a real estate app in which house hunters can sign up, browse properties and make contacts with realtors. I wanted to try my hand at a couple of different hosting services, so I deployed to Digital Ocean and Heroku. With Heroku, I'm using AWS S3 storage buckets for all my static files.",
+      "roles": "",
+      "responsibilities": "",
+      "technologies": [
+          "Amazon Web Services",
+          "Postgres",
+          "Python",
+          "Heroku",
+          "Django",
+          "Jinja",
+          "Bootstrap",
+          "Digital Ocean"
+      ],
+      "featured": false     
+  },
+  {
+      
+      "title": "Wanderlust",
+      "owner": "greg",
+      "project_type": "Team Project",      
+      "front_end_repo": "https://github.com/Wanderlust-build-week-project/Front-End/blob/master/src/components/CreatorLandingPage.js",
+      "back_end_repo": "",
+      "website": "https://epic-minsky-812a3d.netlify.app/index.html",
+      "web_icon": "fas fa-shoe-prints",
+      "description": "Wanderlust is an adventure travel app that turns locals of any community into trip organizers. Similar to Airbnb, only instead of renting out space, trip organizers rent out their local knowledge to customers seeking new experiences.",
+      "roles": "front end architect",
+      "responsibilities": "organizer profile, trip experience search page",
+      "technologies": [
+          "Styled Components",
+          "React with hooks",
+          "React Router"
+      ],
+      "featured": false      
+  },
+  {      
+      "title": "Six Degrees of GitHub",
+      "owner": "greg",
+      "project_type": "Personal Day Project",      
+      "front_end_repo": "https://github.com/gsc229/React-Github-User-Card/tree/greg-cameron",
+      "back_end_repo": "",
+      "website": "https://react-github-user-card.gsc229.now.sh/",
+      "web_icon": "fab fa-connectdevelop",
+      "description": "See your followers' profiles, their skill sets and their coding activity with this app I built using React and GitHub's api.",
+      "roles": "front end architect & back end engineer",
+      "responsibilities": "project owner",
+      "technologies": [
+          "React with classes",
+          "Axios"
+      ],
+      "featured": false
+      
+  },
+  {      
+      "title": "NASA's Photo of The Day Viewer",
+      "owner": "greg",
+      "project_type": "Personal Day Project",      
+      "front_end_repo": "https://github.com/gsc229/nasa-photo-of-the-day/tree/greg-cameron",
+      "back_end_repo": "",
+      "website": "https://gregs-nasa-apod.netlify.app/",
+      "web_icon": "fab fa-grav",
+      "description": "rowse photos from NASA's photo of the day API with this front-end interface I built for it.",
+      "roles": "front end architect & back end engineer",
+      "responsibilities": "project owner",
+      "technologies": [
+          "Styled Components",
+          "Axios",
+          "React with hooks"
+      ],
+      "featured": false      
+  }
+] 
