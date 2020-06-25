@@ -26,11 +26,10 @@ SECRET_KEY = '!%94hov#&l5-h8c(xc4!!96)l-66%g8hczd26$=bmuq@aqy2=7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['portfolio-backend-env.us-east-1.elasticbeanstalk.com']
+ALLOWED_HOSTS = ['portfolio-backend-env.us-east-1.elasticbeanstalk.com', 'localhost:8000', 'localhost']
 
 
 # Application definition
-
 INSTALLED_APPS = [
     'projects.apps.ProjectsConfig',
     'multiselectfield',
