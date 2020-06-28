@@ -1,5 +1,4 @@
-{ 
-  "python.pythonPath": "C:\\Users\\gsc22\\.virtualenvs\\portfoliobackend-aws-PNhpQvIp",
+{
   "python.linting.pylintArgs": [
     "--load-plugins=pylint_django"
   ],
